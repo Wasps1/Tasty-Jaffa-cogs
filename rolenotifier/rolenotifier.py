@@ -198,4 +198,3 @@ def setup(bot):
     bot.add_listener(this_cog.data_check, "on_ready")
 
     bot.add_cog(this_cog)
-
